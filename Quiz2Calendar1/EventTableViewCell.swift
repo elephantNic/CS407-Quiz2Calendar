@@ -6,7 +6,6 @@
 //  Copyright © 2015 jchen. All rights reserved.
 //
 
-
 import UIKit
 
 class EventTableViewCell: UITableViewCell {
